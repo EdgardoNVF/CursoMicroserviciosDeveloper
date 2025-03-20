@@ -1,0 +1,7 @@
+package com.proa.app.entities;
+
+public class PK {
+	long id;
+	
+
+}
